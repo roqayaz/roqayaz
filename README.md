@@ -11,9 +11,7 @@ My name is Roqaya and I am a web dev student. 💻
 - ⚡ Fun fact: I am a origami lover 🦩 
 
 ---
-<h2 align='center' >Get in touch with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-
-  
+<h2 align='center' >Get in touch with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2> 
 <p align='center' >
 <a href='https://www.github.com/roqayaz'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
 <a href='https://www.linkedin.com/in/r'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a> 
@@ -47,7 +45,8 @@ My name is Roqaya and I am a web dev student. 💻
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img align='center' alt="roqayaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roqayaz&bg_color=000000&color=ffa726&line=ffd95b&point=ffc501&hide_border=true" /></a>
 <p align='center'><img height="200x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqayaz&theme=great-gatsby" />
-<img height="200x" src="https://github-readme-stats.vercel.app/api?username=roqayaz&theme=great-gatsby" /></p>
+<img height="200x" src="https://github-readme-stats.vercel.app/api?username=roqayaz&theme=great-gatsby" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roqayaz&&theme=great-gatsby" alt="roqayaz" /></p>
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -55,15 +54,8 @@ My name is Roqaya and I am a web dev student. 💻
 
 <p align='center'><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="roqayaz's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=roqayaz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="roqayaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqayaz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a></p>-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roqayaz&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roqayaz&show_icons=true&theme=great-gatsby)-->
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=roqayaz&theme=great-gatsby)
-
-
+---
 <p align='center'><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a></p>
 
 
@@ -71,20 +63,9 @@ My name is Roqaya and I am a web dev student. 💻
 ![Profile views](https://gpvc.arturio.dev/roqayaz)  
 
 
-
-
-
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-<!--## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqayaz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roqayaz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Roqayaz's GitHub Stats" />
-</a>-->
 
 
    
