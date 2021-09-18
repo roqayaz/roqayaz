@@ -46,8 +46,8 @@ My name is Roqaya and I am a web dev student. 💻
 <h1>📊 Github stats</h1>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img align='center' alt="roqayaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roqayaz&bg_color=000000&color=ffa726&line=ffd95b&point=ffc501&hide_border=true" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqayaz&theme=great-gatsby" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=roqayaz&theme=great-gatsby" />
+<p align='center'><img height="200x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqayaz&theme=great-gatsby" />
+<img height="200x" src="https://github-readme-stats.vercel.app/api?username=roqayaz&theme=great-gatsby" /></p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img align='center' alt="roqayaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roqayaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
