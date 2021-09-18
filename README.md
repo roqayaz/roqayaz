@@ -43,7 +43,7 @@ My name is Roqaya and I am a web dev student. 💻
 
 
 <h1></h1>
-<h1>📊 Github stats</h1>
+<h1 align='center'>📊 Github stats</h1>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img align='center' alt="roqayaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roqayaz&bg_color=000000&color=ffa726&line=ffd95b&point=ffc501&hide_border=true" /></a>
 <p align='center'><img height="200x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqayaz&theme=great-gatsby" />
