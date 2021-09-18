@@ -13,7 +13,7 @@ My name is Roqaya and I am a web dev student. 💻
 - ⚡ Fun fact: I am a origami lover 🦩 
 
 <h1></h1>
-<h2 align='center' >You can find and get touch with me on these accounts!<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2 align='center' >Get in touch with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
   
 <p align='center' >
