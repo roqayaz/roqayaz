@@ -2,7 +2,7 @@
 <h1 align='center'> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h2 align='center'>
-My name is Roqaya and I am a web dev student. 💻
+My name is Roqaya and I am a web dev student. <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
 </h2>
  
  ##### ABOUT ME
@@ -45,5 +45,6 @@ My name is Roqaya and I am a web dev student. 💻
 
 
 
-![Profile views](https://gpvc.arturio.dev/roqayaz)  
+![Profile views](https://gpvc.arturio.dev/roqayaz) 
+
 <h1 align='center'><i>Stay awesome!</i></h1> 
