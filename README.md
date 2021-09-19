@@ -47,4 +47,4 @@ My name is Roqaya and I am a web dev student. <img src = "https://media1.giphy.c
 
 ![Profile views](https://gpvc.arturio.dev/roqayaz) 
 
-<h1 align='center'><i>Stay awesome!</i></h1> 
+<h1 align='center'><i>Stay awesome, Guys! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"></i></h1> 
