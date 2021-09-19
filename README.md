@@ -5,10 +5,16 @@
 My name is Roqaya and I am a web dev student. 💻
 </h2>
  
-- 🌱 I’m currently learning javaScript 
-- 💬 Ask me about anything 
-- 😄 Pronouns: she/her 
-- ⚡ Fun fact: I am an origami lover 🦩 
+ ##### ABOUT ME
+
+
+> - 🌱 I’m currently learning javaScript
+> - 💬 Ask me about anything 
+> - 😄 Pronouns: She/her
+> - ⚡ Fun fact: I am an origami lover 🦩 
+####
+
+
 
 <h2 align='center' >Find me around the web<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2> 
 <p align='center' >
