@@ -8,7 +8,7 @@ My name is Roqaya and I am a web dev student. <img src = "https://media1.giphy.c
  ##### ABOUT ME
 
 
-> - 🌱 I’m currently learning javaScript
+> - 🌱 I’m currently learning node.js
 > - 💬 Ask me about anything 
 > - 😄 Pronouns: She/her
 > - ⚡ Fun fact: I am an origami lover 🦩 
