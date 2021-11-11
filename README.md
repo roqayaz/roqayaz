@@ -31,6 +31,7 @@ My name is Roqaya and I am a web dev student. <img src = "https://media1.giphy.c
 <a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=javascript&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=git&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="40" height="32" />
+<img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png">
 </p>
 
 <h1 align='center'>📊 Github stats</h1>
