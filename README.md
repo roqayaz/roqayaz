@@ -1,11 +1,4 @@
 
-<h1 align='center'> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-
-
-
-
-
 <h2 align='center' >Find me around the web<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2> 
 <p align='center' >
 <a href='https://www.github.com/roqayaz'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
