@@ -15,6 +15,7 @@
 <a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=git&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="40" height="32" />
 <img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png">
+<img height="35" src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png">
 </p>
 
 
